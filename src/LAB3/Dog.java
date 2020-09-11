@@ -1,3 +1,5 @@
+package LAB3;
+
 public abstract class Dog {
     protected String name;
     public void setName(String name){
